@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby
-
 require 'tempfile'
 
 def count(f, n)
