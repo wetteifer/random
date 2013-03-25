@@ -1,0 +1,31 @@
+[
+    {
+        code: 5,
+        policies: [
+            "1.js",
+            "2.js",
+            "3.js"
+        ]
+    },
+    {
+        code: 4,
+        policies: [
+            "1.js",
+            "2.js"
+        ]
+    },
+    {
+        code: 3,
+        policies: [
+            "1.js"
+        ]
+    },
+    {
+        code: 2,
+        policies: [
+            "1.js",
+            "2.js",
+            "3.js"
+        ]
+    }
+]

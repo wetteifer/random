@@ -1,0 +1,22 @@
+[
+    {
+        name: "Master Card",
+        code: 5,
+        amount: 50.0
+    },
+    {
+        name: "Visa",
+        code: 4,
+        amount: 0.0
+    },
+    {
+        name: "American Express",
+        code: 3,
+        amount: 0.0
+    },
+    {
+        name: "Paypal",
+        code: 2,
+        amount: 100.0
+    }
+]
