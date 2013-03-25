@@ -1,46 +1,46 @@
 [
     {
-        code: 5,
-        system: {
-            name: "Master Card Payment System",
-            connectionMessage: "Connecting...",
-            connectionTime: 5000,
-            paymentMessage: "Sending payment...",
-            paymentTime: 7000,
-            paymentSentMessage: "Payment sent."
+        "code": 5,
+        "system": {
+            "name": "Master Card Payment System",
+            "connectionMessage": "Connecting...",
+            "connectionTime": 5000,
+            "paymentMessage": "Sending payment...",
+            "paymentTime": 7000,
+            "paymentSentMessage": "Payment sent."
         }
     },
     {
-        code: 4,
-        system: {
-            name: "Visa Payment System",
-            connectionMessage: "Connecting...",
-            connectionTime: 5000,
-            paymentMessage: "Sending payment...",
-            paymentTime: 7000,
-            paymentSentMessage: "Payment sent."
+        "code": 4,
+        "system": {
+            "name": "Visa Payment System",
+            "connectionMessage": "Connecting...",
+            "connectionTime": 5000,
+            "paymentMessage": "Sending payment...",
+            "paymentTime": 7000,
+            "paymentSentMessage": "Payment sent."
         }
     },
     {
-        code: 3,
-        system: {
-            name: "American Express Payment System",
-            connectionMessage: "Connecting...",
-            connectionTime: 5000,
-            paymentMessage: "Sending payment...",
-            paymentTime: 7000,
-            paymentSentMessage: "Payment sent."
+        "code": 3,
+        "system": {
+            "name": "American Express Payment System",
+            "connectionMessage": "Connecting...",
+            "connectionTime": 5000,
+            "paymentMessage": "Sending payment...",
+            "paymentTime": 7000,
+            "paymentSentMessage": "Payment sent."
         }
     },
     {
-        code: 2,
-        system: {
-            name: "Paypal Web Payment System",
-            connectionMessage: "Hey hey hey, wait a moment!",
-            connectionTime: 3000,
-            paymentMessage: "Transferring money...",
-            paymentTime: 5000,
-            paymentSentMessage: "Payment sent."
+        "code": 2,
+        "system": {
+            "name": "Paypal Web Payment System",
+            "connectionMessage": "Hey hey hey, wait a moment!",
+            "connectionTime": 3000,
+            "paymentMessage": "Transferring money...",
+            "paymentTime": 5000,
+            "paymentSentMessage": "Payment sent."
         }
     }
 ]
