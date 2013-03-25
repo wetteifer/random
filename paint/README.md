@@ -1,7 +1,7 @@
 paint
 =====
 
-!(https://github.com/wetteifer/random/tree/master/paint/dibujar.png)
+!(https://github.com/wetteifer/random/blob/master/paint/dibujar.png)
 
 Proyecto final para la clase de Programación Orientada a Objetos en Conalep en el 2009.
 
