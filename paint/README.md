@@ -1,8 +1,6 @@
 paint
 =====
 
-![image](https://raw.github.com/wetteifer/random/master/paint/dibujar.png)
-
 Proyecto final para la clase de Programación Orientada a Objetos en Conalep en el 2009.
 
 En ese tiempo odiaba Java con todo mi ser, creí que reprobaría la materia porque no lograba
