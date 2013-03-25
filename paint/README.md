@@ -7,9 +7,9 @@ En ese tiempo odiaba Java con todo mi ser, creí que reprobaría la materia porq
 entender el lenguaje.
 
 Nos dieron a escoger tres proyectos finales:
-    - Un paint con opciones básicas.
-	- Un ABC que se conectara a una base de datos en FoxPro.
-	- Un graficador de funciones.
+- Un paint con opciones básicas.
+- Un ABC que se conectara a una base de datos en FoxPro.
+- Un graficador de funciones.
 	
 Dado que el paint era el proyecto con mayor puntuación, decidi escogerlo.
 
