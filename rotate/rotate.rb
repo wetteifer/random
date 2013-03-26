@@ -46,6 +46,7 @@ def main
   end
   
   ARGV.each_with_index do |arg, index|
+    next unless arg.start_with? '-'
     if arg == '-r'
       r.rotate  ARGV[index + 1].to_i
     elsif arg == '-e'
