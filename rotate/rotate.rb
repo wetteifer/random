@@ -35,19 +35,27 @@ class Rotate
 
 end
 
-if __FILE__ == $0
-  r = Rotate.new  
+# ???
+
+def main
+  r = Rotate.new
+  
   if ARGV.empty?
     puts "Usage:\n\n(rotate)  -r [number]\n(encrypt) -e [string]\n(decrypt) -d [string]"
-  else
-    ARGV.each_with_index do |arg, index|
-      if arg == '-r'
-        r.rotate  ARGV[index + 1].to_i
-      elsif arg == '-e'
-        r.encrypt ARGV[index + 1]
-      elsif arg == '-d'
-        r.decrypt ARGV[index + 1]
-      end
+    return
+  end
+  
+  ARGV.each_with_index do |arg, index|
+    if arg == '-r'
+      r.rotate  ARGV[index + 1].to_i
+    elsif arg == '-e'
+      r.encrypt ARGV[index + 1]
+    elsif arg == '-d'
+      r.decrypt ARGV[index + 1]
     end
   end  
+end
+
+if __FILE__ == $0
+  main
 end
