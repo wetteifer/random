@@ -8,10 +8,10 @@ class UserControl:
 
   # Configuracion de la conexion.
   CONNECT_CONFIG = {
-    'user':     'root',
-    'password': 'root',
+    'user':     'user',
+    'password': 'password',
     'host':     'localhost',
-    'database': 'openbravo'
+    'database': 'database'
   }
 
   def __init__(self):
@@ -60,7 +60,7 @@ class UserControl:
     # Realizamos la consulta.
     cursor.execute('SELECT NAME, STATUS FROM PEOPLE ORDER BY NAME')
     
-    # Lista con la informacion de los usuarios.
+    # Diccionario con la informacion de los usuarios.
     users = {}
     
     # Agregamos los usuarios.
